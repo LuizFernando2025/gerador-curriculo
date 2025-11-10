@@ -10,4 +10,4 @@ Sistema para criação de currículos profissionais.
 - Bootstrap
 
 ## Desenvolvido por
-[Seu Nome] - UNIPAR EAD
+[Luiz Fernando Pereira Rodrigues] - UNIPAR EAD
